@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm João, welcome to my github!
+
+🌱 I’m currently learning Angular
+🌱 I'm currently looking for an entry-level job!
+📫 How to reach me:
+  *Email: joaoramos13198@gmail.com
+  *Phone: +351 918 414 906
+
+
 <!--
 **joaoramos1234/joaoramos1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
