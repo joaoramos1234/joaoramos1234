@@ -7,6 +7,7 @@ I'm João, welcome to my github!
 🌱 I'm currently looking for an entry-level job!
 <br>
 📫 How to reach me:
+<br>
   *Email: joaoramos13198@gmail.com
   <br>
   *Phone: +351 918 414 906
