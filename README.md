@@ -1,6 +1,6 @@
-# Hi there 👋
+## Hi there 👋
 <br>
-I'm João, welcome to my github!
+### I'm João, welcome to my github!
 <br><br>
 🌱 I’m currently learning Angular
 <br>
