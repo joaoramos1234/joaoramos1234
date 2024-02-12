@@ -8,6 +8,7 @@ I'm João, welcome to my github!
 <br>
 📫 How to reach me:
   *Email: joaoramos13198@gmail.com
+  <br>
   *Phone: +351 918 414 906
 
 
