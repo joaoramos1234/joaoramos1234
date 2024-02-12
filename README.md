@@ -4,6 +4,7 @@ I'm João, welcome to my github!
 
 🌱 I’m currently learning Angular
 🌱 I'm currently looking for an entry-level job!
+<br>
 📫 How to reach me:
   *Email: joaoramos13198@gmail.com
   *Phone: +351 918 414 906
